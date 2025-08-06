@@ -1,0 +1,4 @@
+on server side
+python conditional_train.py
+python conditional_generate.py
+scp  160.252.135.94:~/CNN/Diffusion/output,png .

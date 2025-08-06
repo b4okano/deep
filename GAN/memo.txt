@@ -1,0 +1,7 @@
+on server side
+python GANServer.py
+
+scp  160.252.135.94:~/CNN/GAN/*.pth .
+
+on local
+streamlit run CreateStreamlit.py

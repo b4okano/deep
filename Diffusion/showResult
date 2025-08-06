@@ -1,0 +1,1 @@
+streamlit run  showResultStreamlit.py --server.port $STREAMLITPORT 

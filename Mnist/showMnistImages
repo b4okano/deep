@@ -1,0 +1,1 @@
+streamlit run  showMnistImages.py --server.port $STREAMLITPORT 

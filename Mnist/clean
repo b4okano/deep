@@ -1,0 +1,1 @@
+rm -fr OLDs __pycache__ NG_figure_CNN MNIST CNNLearningResult number_generated *.pth

@@ -1,0 +1,10 @@
+on server side
+python main.py --model fcn
+python main.py --model cnn
+python main.py --epoch 20
+
+scp  160.252.135.94:~/CNN/Mnist/*.pth .
+
+on local
+streamlit run discriminateStreamlit.py
+

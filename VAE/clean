@@ -1,0 +1,1 @@
+rm -fr __pycache__  data output *.pickle *.pth

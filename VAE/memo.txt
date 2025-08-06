@@ -1,0 +1,8 @@
+on server side
+python main.py
+
+scp  160.252.135.94:~/CNN/VAE/*.pth .
+scp  160.252.135.94:~/CNN/VAE/*.pickle .
+
+on local
+streamlit run reproduce.py
